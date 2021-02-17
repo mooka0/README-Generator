@@ -67,12 +67,6 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'badge',
-        message: 'List your contributers, or collaborators with links to their Github profiles.',
-        
-    },
-    {
-        type: 'input',
         name: 'features',
         message: 'If your project has a lot of features, consider adding a heading called "Features" and listing them there.',
         

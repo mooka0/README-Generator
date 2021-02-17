@@ -27,9 +27,8 @@ function generateMarkdown(data) {
   ${data.credits}
   # License
   ${data.license}
-  # Badge
-  ${data.badge}
   # Features 
+  ${data.features}
 
 
 `;
